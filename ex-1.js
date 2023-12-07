@@ -1,0 +1,3 @@
+class EmailNotification { }
+
+class SMSNotification { }
